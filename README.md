@@ -14,4 +14,4 @@ Aqui esta disponiveis alguns links para cursos livres gratuitos em tecnologia:
 - FGV cursos livres gratuitos em gestão na tecnologia:
   https://shortest.link/1O7O
  
- 
+ - Duolingo é um aplicativo para iniciante que te possibilita aprender varias linguas, inclusive inglês. 
