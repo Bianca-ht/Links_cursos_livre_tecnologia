@@ -3,7 +3,7 @@
 Aqui esta disponiveis alguns links para cursos livres gratuitos em tecnologia:
 
 - Fundação Bradesco:
-  - Tem uma lista extensa de cursos não so em tecnologia:
+  - Tem uma lista extensa de cursos não só em tecnologia:
   https://shortest.link/1SNp
 
   - Curso de 6 horas em Pensamento Computacional (Excelente): 
