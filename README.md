@@ -10,5 +10,8 @@ Aqui esta disponiveis alguns links para cursos livres gratuitos em tecnologia:
   https://shortest.link/1SNz
   
  - Udemy, plataforma de cursos gratuitos e pagos. 
+
+- FGV cursos livres gratuitos em gestão na tecnologia:
+  https://shortest.link/1O7O
  
  
