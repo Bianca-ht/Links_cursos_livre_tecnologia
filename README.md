@@ -1,6 +1,6 @@
 # Cursos livre em tecnologia
 
-Aqui esta disponiveis alguns links para cursos livres gratuitos em tecnologia:
+Aqui estão disponiveis alguns links para cursos livres gratuitos em tecnologia:
 
 - Fundação Bradesco:
   - Tem uma lista extensa de cursos não só em tecnologia:
