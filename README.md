@@ -1,4 +1,4 @@
-# Cursos livre em tecnologia
+# Cursos livres em tecnologia
 
 Aqui estão disponiveis alguns links para cursos livres e gratuitos em tecnologia:
 
